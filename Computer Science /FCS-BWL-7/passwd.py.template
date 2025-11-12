@@ -1,0 +1,2 @@
+# passwd.py
+db_password = 'put your password here and make sure you never share this file. Then rename the file to passwd.py'
